@@ -1,6 +1,6 @@
 <h1 align="center">«Dreamshare»</h1>
 
-<div align="center"><img src="/images/readme.jpg"/></div>
+<div align="center"><img src="/readme.jpg"/></div>
 
 <h2>Descripion</h2>
  Training mockup from LOGOS IT. Main tasks: the site should be
