@@ -9,7 +9,8 @@
         background-repeat: no-repeat;
         background-position: center;
         border-radius: 50%;
-        outline: 3px solid white;
+        border: 3px solid white;
+        box-sizing: content-box;
 }
 %flex-center {
         display: flex;
